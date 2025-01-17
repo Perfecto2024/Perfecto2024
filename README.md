@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alsaeed Abubaker
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Data analysis.
+- 👀 I’m interested in backend  
+- 🌱 I’m currently learning Backend.
 - 💞️ Know about my experiences https://www.linkedin.com/in/alsaeed-abubaker-a341aa256/
 - 📫 How to reach me alsaeed.m.khaer@gmail.com
